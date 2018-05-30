@@ -68,18 +68,6 @@ const views = require('./api/views');               // 前台接口api
     app.get('/users', (req, res, next) => {
         return res.sendFile(process.cwd() + '/static/login.html');
     });
-    // 百度站点管理
-    app.get('/baidu_verify_aQuDMtoLQ9.html', (req, res, next) => {
-        return res.sendFile(process.cwd() + '/baidu_verify_aQuDMtoLQ9.html');
-    });
-    // 搜狗站点管理
-    app.get('/sogousiteverification.txt', (req, res, next) => {
-        return res.sendFile(process.cwd() + '/sogousiteverification.txt');
-    });
-    // Bing站点管理
-    app.get('/BingSiteAuth.xml', (req, res, next) => {
-        return res.sendFile(process.cwd() + '/BingSiteAuth.xml');
-    });
 
 // *
 // *********

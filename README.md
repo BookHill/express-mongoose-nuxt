@@ -1,8 +1,8 @@
 # express-mongoose-nuxt
 
-> My superb Nuxt.js project
-> 数据库：_mongodb
-> 开发：Nuxt.js--express--mongoose
+> My superb Nuxt.js project  
+> 数据库：_mongodb  
+> 开发：Nuxt.js--express--mongoose  
 
 Create Nuxt App [https://github.com/nuxt-community/create-nuxt-app](https://github.com/nuxt-community/create-nuxt-app)
 
